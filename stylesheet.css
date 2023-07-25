@@ -1,0 +1,44 @@
+.banner{
+    background: url(1.PNG);
+    background-position: center;
+    background-size: cover;
+    height: 87vh;
+}
+.btn-dark{background-color: black ;
+       width: 150px;
+       height: 50px;
+color: white;
+font-size:15.5px;
+}
+.title{
+    color:brown;
+    font-size: 33px;
+
+}
+h1{
+    color:orangered;
+    font-size: 67px;
+    font-weight: 600;
+}
+.text{
+    color: white;
+    font-size: 17px;
+}
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: gray;
+    padding: 80px;
+}
+.gallery img{
+    background-color: #ffff;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0 0 0 0.3);
+    cursor: pointer;
+}
+#gallery-modal .modal-img{
+    width: 100%;
+    
+}
